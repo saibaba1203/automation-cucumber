@@ -1,0 +1,39 @@
+2022-05-19 22:05:415 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 22:05:943 INFO  HomePage :52 - Clicking on top menu tab  Women
+2022-05-19 22:05:923 INFO  WomenCategoryPage :30 - Verifying Women text [[ChromeDriver: chrome on WINDOWS (c8edaef5c6f35f1057f9ff534428f6fb)] -> xpath: //span[@class='category-name']]
+2022-05-19 22:05:666 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 22:05:762 INFO  HomePage :52 - Clicking on top menu tab  Women
+2022-05-19 22:05:444 INFO  WomenCategoryPage :35 - Clicking on product  [[ChromeDriver: chrome on WINDOWS (2bc1469d35d9d252b0134905719ec32c)] -> xpath: //a[@class='product-name']]
+2022-05-19 22:05:780 INFO  ProductPage :50 - Changing quantity  [[ChromeDriver: chrome on WINDOWS (2bc1469d35d9d252b0134905719ec32c)] -> id: quantity_wanted]
+2022-05-19 22:05:84 INFO  ProductPage :55 - Selecting size from dropdown  [[ChromeDriver: chrome on WINDOWS (2bc1469d35d9d252b0134905719ec32c)] -> id: group_1]
+2022-05-19 22:05:264 INFO  ProductPage :60 - Clicking on colour  [[ChromeDriver: chrome on WINDOWS (2bc1469d35d9d252b0134905719ec32c)] -> class name: attribute_list]
+2022-05-19 22:05:467 INFO  ProductPage :65 - Clicking on Add to cart button  [[ChromeDriver: chrome on WINDOWS (2bc1469d35d9d252b0134905719ec32c)] -> xpath: //span[contains(text(),'Add to cart')]]
+2022-05-19 22:05:553 INFO  ProductPage :70 - Verifying product added to cart message  [[ChromeDriver: chrome on WINDOWS (2bc1469d35d9d252b0134905719ec32c)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-19 22:05:283 INFO  ProductPage :75 - Clicking on close button on pop up  [[ChromeDriver: chrome on WINDOWS (2bc1469d35d9d252b0134905719ec32c)] -> xpath: //span[@title='Close window']]
+2022-05-19 22:05:92 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 22:05:378 INFO  HomePage :52 - Clicking on top menu tab  Women
+2022-05-19 22:05:75 INFO  WomenCategoryPage :35 - Clicking on product  [[ChromeDriver: chrome on WINDOWS (5fd602ba990486a6897739423582ecba)] -> xpath: //a[@class='product-name']]
+2022-05-19 22:05:265 INFO  ProductPage :50 - Changing quantity  [[ChromeDriver: chrome on WINDOWS (5fd602ba990486a6897739423582ecba)] -> id: quantity_wanted]
+2022-05-19 22:05:479 INFO  ProductPage :55 - Selecting size from dropdown  [[ChromeDriver: chrome on WINDOWS (5fd602ba990486a6897739423582ecba)] -> id: group_1]
+2022-05-19 22:05:732 INFO  ProductPage :60 - Clicking on colour  [[ChromeDriver: chrome on WINDOWS (5fd602ba990486a6897739423582ecba)] -> class name: attribute_list]
+2022-05-19 22:05:25 INFO  ProductPage :65 - Clicking on Add to cart button  [[ChromeDriver: chrome on WINDOWS (5fd602ba990486a6897739423582ecba)] -> xpath: //span[contains(text(),'Add to cart')]]
+2022-05-19 22:05:104 INFO  ProductPage :70 - Verifying product added to cart message  [[ChromeDriver: chrome on WINDOWS (5fd602ba990486a6897739423582ecba)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-19 23:05:625 INFO  ProductPage :75 - Clicking on close button on pop up  [[ChromeDriver: chrome on WINDOWS (5fd602ba990486a6897739423582ecba)] -> xpath: //span[@title='Close window']]
+2022-05-19 23:05:470 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 23:05:982 INFO  HomePage :52 - Clicking on top menu tab  Women
+2022-05-19 23:05:752 INFO  WomenCategoryPage :35 - Clicking on product  [[ChromeDriver: chrome on WINDOWS (4181f137402fcac81c6c9bc4ec590dc6)] -> xpath: //a[@class='product-name']]
+2022-05-19 23:05:957 INFO  ProductPage :50 - Changing quantity  [[ChromeDriver: chrome on WINDOWS (4181f137402fcac81c6c9bc4ec590dc6)] -> id: quantity_wanted]
+2022-05-19 23:05:46 INFO  ProductPage :55 - Selecting size from dropdown  [[ChromeDriver: chrome on WINDOWS (4181f137402fcac81c6c9bc4ec590dc6)] -> id: group_1]
+2022-05-19 23:05:229 INFO  ProductPage :60 - Clicking on colour  [[ChromeDriver: chrome on WINDOWS (4181f137402fcac81c6c9bc4ec590dc6)] -> class name: attribute_list]
+2022-05-19 23:05:482 INFO  ProductPage :65 - Clicking on Add to cart button  [[ChromeDriver: chrome on WINDOWS (4181f137402fcac81c6c9bc4ec590dc6)] -> xpath: //span[contains(text(),'Add to cart')]]
+2022-05-19 23:05:549 INFO  ProductPage :70 - Verifying product added to cart message  [[ChromeDriver: chrome on WINDOWS (4181f137402fcac81c6c9bc4ec590dc6)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-19 23:05:403 INFO  ProductPage :75 - Clicking on close button on pop up  [[ChromeDriver: chrome on WINDOWS (4181f137402fcac81c6c9bc4ec590dc6)] -> xpath: //span[@title='Close window']]
+2022-05-19 23:05:216 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 23:05:45 INFO  HomePage :52 - Clicking on top menu tab  Women
+2022-05-19 23:05:202 INFO  WomenCategoryPage :35 - Clicking on product  [[ChromeDriver: chrome on WINDOWS (aad1106d059ead097983a52f678ddc8d)] -> xpath: //a[@class='product-name']]
+2022-05-19 23:05:408 INFO  ProductPage :50 - Changing quantity  [[ChromeDriver: chrome on WINDOWS (aad1106d059ead097983a52f678ddc8d)] -> id: quantity_wanted]
+2022-05-19 23:05:585 INFO  ProductPage :55 - Selecting size from dropdown  [[ChromeDriver: chrome on WINDOWS (aad1106d059ead097983a52f678ddc8d)] -> id: group_1]
+2022-05-19 23:05:768 INFO  ProductPage :60 - Clicking on colour  [[ChromeDriver: chrome on WINDOWS (aad1106d059ead097983a52f678ddc8d)] -> class name: attribute_list]
+2022-05-19 23:05:923 INFO  ProductPage :65 - Clicking on Add to cart button  [[ChromeDriver: chrome on WINDOWS (aad1106d059ead097983a52f678ddc8d)] -> xpath: //span[contains(text(),'Add to cart')]]
+2022-05-19 23:05:993 INFO  ProductPage :70 - Verifying product added to cart message  [[ChromeDriver: chrome on WINDOWS (aad1106d059ead097983a52f678ddc8d)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-19 23:05:883 INFO  ProductPage :75 - Clicking on close button on pop up  [[ChromeDriver: chrome on WINDOWS (aad1106d059ead097983a52f678ddc8d)] -> xpath: //span[@title='Close window']]
